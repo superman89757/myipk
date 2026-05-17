@@ -15,7 +15,6 @@
     ],
     "final": "local",
     "strategy": "ipv4_only",
-	"prefer_ipv4": true,
     "independent_cache": true,
     "reverse_mapping": true
   },
